@@ -1,6 +1,7 @@
 body {
   background: pink;
 }
+
 h1 {
   color: blue;
   font-size: 3em;
@@ -16,8 +17,7 @@ h2 {
   font-size: 12px;
 }
 
-li.completed
-{
-  background-color: #ccc;
-text-decoration: underline;
+#tasks .completed {
+  background: #ccc;
+  text-decoration: underline;
 }

@@ -1,0 +1,23 @@
+{
+  "name": "css-issue-bot-9000-re-coded-erbil-2018",
+  "version": "1.0.0",
+  "description": "Bleep bloop, please help Issue Bot 9000 solve all CSS validation errors using the W3C Jigsaw CSS validator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadi-ina/css-issue-bot-9000-re-coded-erbil-2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadi-ina/css-issue-bot-9000-re-coded-erbil-2018/issues"
+  },
+  "homepage": "https://github.com/fadi-ina/css-issue-bot-9000-re-coded-erbil-2018#readme",
+  "dependencies": {
+    "learn-browser": "^0.1.17",
+    "moment": "^2.22.2"
+  }
+}
